@@ -26,11 +26,10 @@ Advanced Data Analysis:
 
 This project includes advanced SQL queries to analyze the database for:
 
-1. Sensor Types and Their Lifespan.
-2. Most Common Maintenance Activities.
-3. Analysis of Maintenance Frequency After Long Trips.
-4. Car Utilization Analysis Based on Mileage.
-5. Correlation Between Car Age and Maintenance Needs.
+1. Most Common Maintenance Activities.
+2. Analysis of Maintenance Frequency After Long Trips.
+3. Car Utilization Analysis Based on Mileage.
+4. Correlation Between Car Age and Maintenance Needs.
 
 Visual Data Representation:
 
